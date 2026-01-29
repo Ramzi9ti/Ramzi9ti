@@ -1,56 +1,27 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحبًا (Hello) 🙏🏻, I'm XP.....! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحبًا (Hello) 👋, I'm Ramzi!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Crypto Enthusiast | Smart Contract Developer | Web3 & DeFi Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Linkedin: XP.....](https://img.shields.io/badge/-XP.....-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-nafti-b303353a2/)](https://www.linkedin.com/in/oussama-nafti-b303353a2/)
-![GitHub followers](https://img.shields.io/github/followers/Ramzi9ti?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Ramzi9ti.Ramzi9ti)
+<p><em>Frontend Developer | React / Next.js | TypeScript | Tailwind CSS | REST APIs</em></p>
 
-### 📫 Let's Connect!
-If you want to chat about crypto, smart contracts, DeFi, NFTs, Web3 projects, blockchain security, trading, or tech in general, feel free to reach out!
+[![Twitter Follow](https://img.shields.io/twitter/follow/ramzi?label=Follow)](https://twitter.com/)
+[![Linkedin](https://img.shields.io/badge/-Ramzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+![GitHub followers](https://img.shields.io/github/followers/ramzi16?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=ramzi16.ramzi16)
 
-👇 Hit in your console or terminal to connect with me.
+---
 
-```bash
+### 👨‍💻 About Me
 
-npx xp
-const xp = {
-  name: "XP.....",
-  pronouns: ["he", "him"],
-  languages: [
-    "Solidity",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Dart",
-    "HTML",
-    "CSS",
-    "SQL",
-    "C++",
-    "Rust",
-    "Go"
-  ],
-  askMeAbout: [
-    "cryptocurrency",
-    "smart contracts",
-    "DeFi projects",
-    "NFTs",
-    "Web3 development",
-    "trading",
-    "blockchain security",
-    "TikTok content creation",
-    "technical projects",
-    "ethical hacking"
-  ],
+I'm a frontend developer with a focus on building **modern, responsive, and fast web applications** using **React, Next.js, TypeScript, and Tailwind CSS**. I also have experience integrating **REST APIs** and working on data-driven interfaces.  
 
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Sass", "Bootstrap"],
-    backend: ["Node.js", "Express", "NestJS", "Flask"],
-    blockchain: ["Solidity", "Web3.js", "Ethers.js", "BNB Smart Chain"],
-    devOps: ["Docker", "GitHub Actions", "CI/CD", "Nginx"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"]
-  },
+Besides coding, I am a **trader** and love analyzing markets — this gives me a unique perspective on building **performance-focused and data-driven applications**.  
 
-  currentFocus: "Building and deploying smart contracts, exploring DeFi & NFT projects, creating AI-powered Web3 dashboards",
-  funFact: "Most bugs disappear after coffee and a clean commit history!"
+```javascript
+const ramzi = {
+  name: "Ramzi",
+  role: "Frontend Developer",
+  skills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "REST APIs"],
+  interests: ["Web Development", "Trading", "UI/UX Design", "Performance Optimization"],
+  tools: ["VS Code", "Git", "Figma", "Postman"],
+  funFact: "I often think about optimizing both code and trades!"
 };
